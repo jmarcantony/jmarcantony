@@ -1,5 +1,17 @@
 ### Hi there 👋
+
 ## I'm Joseph from a galaxy far, far away 🌌. I am an Ethical Hacker 🐱‍💻, Full Stack Web Developper 🌐 and a Student 🎓. I enjoy coding and love to learn new technologies 👨‍💻.
+
+## My Skills
+* 💻 HTML
+* 💻 CSS
+* 💻 JavaScript
+* 🐍 Python
+* ⚛ React
+* 💻 Go
+
+## 🌱 I’m currently learning: Go
+## 📫 How to reach me: josephmarc2610@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarcantony)](https://github.com/anuraghazra/github-readme-stats)
 
