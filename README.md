@@ -2,7 +2,7 @@
 
 ## I'm Joseph from a galaxy far, far away 🌌. I am an Ethical Hacker 🐱‍💻, Full Stack Web Developper 🌐 and a Student 🎓. I enjoy coding and love to learn new technologies 👨‍💻.
 
-- 🌱 I’m currently learning: Go
+- 🌱 I’m currently learning: Mobile Development and Go
 - 📫 How to reach me: josephmarc2610@gmail.com
 - 👀 Interested : Data Science and Machine Learning
 - 👯 I’m looking to collaborate on: Projects related to Web Development or Python
