@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Joseph from a galaxy far, far away 🌌. I am an Ethical Hacker 🐱‍💻, Full Stack Web Developper 🌐 and a Student 🎓. I enjoy coding and love to learn new technologies 👨‍💻.
+## I'm Joseph from a galaxy far, far away 🌌. I am an Ethical Hacker 🐱‍💻, Full Stack Web Developer 🌐 and a Student 🎓. I enjoy coding and love to learn new technologies 👨‍💻.
 
 - 🌱 I’m currently learning: Mobile Development and Go
 - 📫 How to reach me: josephmarc2610@gmail.com
