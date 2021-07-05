@@ -16,7 +16,7 @@
 * 🐍 Python
 * ⚛ React
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarcantony)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarcantony&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
