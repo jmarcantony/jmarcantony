@@ -3,11 +3,11 @@
 ## I'm Joseph from a galaxy far, far away 🌌. I am an Ethical Hacker 🐱‍💻, Full Stack Web Developper 🌐 and a Student 🎓. I enjoy coding and love to learn new technologies 👨‍💻.
 
 ## My Skills
+* 🐍 Python
+* ⚛ React
 * 💻 HTML
 * 💻 CSS
 * 💻 JavaScript
-* 🐍 Python
-* ⚛ React
 * 💻 Go
 
 ## 🌱 I’m currently learning: Go
