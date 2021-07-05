@@ -10,8 +10,9 @@
 * 🐍 Python
 * ⚛ React
 
-## 🌱 I’m currently learning: Go
-## 📫 How to reach me: josephmarc2610@gmail.com
+- 🌱 I’m currently learning: Go
+- 📫 How to reach me: josephmarc2610@gmail.com
+- 👀 Interested : Data Science and Machine Learning
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarcantony)](https://github.com/anuraghazra/github-readme-stats)
 
