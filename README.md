@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcantony&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarcantony&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=jmarcantony)
+![](https://komarev.com/ghpvc/?username=jmarcantony&color=green)
 <!--
 **jmarcantony/jmarcantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
