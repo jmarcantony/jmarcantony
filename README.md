@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 ## I'm Joseph from a galaxy far, far away 🌌. I am an Ethical Hacker 🐱‍💻, Full Stack Web Developer 🌐 and a Student 🎓. I enjoy coding and love to learn new technologies 👨‍💻.
@@ -22,6 +23,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarcantony&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=jmarcantony&color=brightgreen)
+</div>
 <!--
 **jmarcantony/jmarcantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
