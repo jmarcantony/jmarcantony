@@ -11,14 +11,14 @@
 - ⚡ Fun fact: Did you know that cows moo with regional accents
 
 ## My Skills
-* 💻 HTML
-* 💻 CSS
-* 💻 JavaScript
-* 💻 TypeScript
-* 💻 Go
-* 🐍 Python
-* ⚛ React
-* 🐘 Postgresql
+### 💻 HTML
+### 💻 CSS
+### 💻 JavaScript
+### 💻 TypeScript
+### 💻 Go
+### 🐍 Python
+### ⚛ React
+### 🐘 Postgresql
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcantony&theme=gotham&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   <br />
